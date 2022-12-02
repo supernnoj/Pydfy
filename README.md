@@ -6,6 +6,8 @@ Pydfy a software that will convert and merge your files into a single PDF file.
 - Software developed using Python 3.11.0
 - It is still under development
 
+After download, extract zip file and run Pydfy.exe
+
 # Downloads
 |  Version | Download link |
 |--------------------------------------------|--------------------------------------------|
