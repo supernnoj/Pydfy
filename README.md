@@ -9,6 +9,6 @@ Pydfy a software that will convert and merge your files into a single PDF file.
 # Downloads
 |  Version | Download link |
 |--------------------------------------------|--------------------------------------------|
-| Initial Release | [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/total.svg)](https://github.com//supernnoj/Pydfy/releases) |
+| Initial Release | [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/total.svg)](https://github.com/supernnoj/Pydfy/releases/download/v.0.0.1.0/pydfy-initial-release.zip) |
 
 # Thank you for using and supporting Pydfy!
