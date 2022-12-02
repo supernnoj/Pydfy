@@ -29,7 +29,7 @@ body:
           required: true
         - label: I have written a short but informative title.
           required: true
-        - label: I have updated the app to version.
+        - label: I have updated the app to the latest version.
           required: true
         - label: I will fill out all of the requested information in this form.
           required: true
