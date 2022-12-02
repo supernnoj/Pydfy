@@ -11,9 +11,9 @@ After download, extract zip file and run Pydfy.exe
 # Downloads
 |  Version | Download link |
 |--------------------------------------------|--------------------------------------------|
-| v0.0.2.1 | [Click here to download](https://github.com/supernnoj/Pydfy/releases/download/v0.0.2.1/pydfy-v0.0.2.1.zip) |
+| v0.0.2.1 | [Click here to download](https://github.com/supernnoj/Pydfy/releases/download/v0.0.2.2/pydfy-v0.0.2.2.zip) |
 
-### Download Counts <br> [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/total.svg)](https://github.com/supernnoj/Pydfy/releases/) &nbsp; [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/latest/pydfy-v0.0.2.1.zip)](https://github.com/supernnoj/Pydfy/releases/latest)
+### Download Counts <br> [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/total.svg)](https://github.com/supernnoj/Pydfy/releases/) &nbsp; [![](https://img.shields.io/github/downloads/supernnoj/Pydfy/latest/pydfy-v0.0.2.2.zip)](https://github.com/supernnoj/Pydfy/releases/latest)
 
 
 # Thank you for using and supporting Pydfy!
