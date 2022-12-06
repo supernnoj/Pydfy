@@ -17,3 +17,5 @@ After download, extract zip file and run Pydfy.exe
 
 
 # Thank you for using and supporting Pydfy!
+### Many thanks to these awesome libraries!
+• [Tkinter](https://pypi.org/project/tkinter-page/) • [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) • [PyPDF2](https://pypdf2.readthedocs.io/en/latest/)
